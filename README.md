@@ -94,10 +94,16 @@ Este código verifica se um endereço de e-mail fornecido é válido. A validaç
 ### Conclusão
 
 Os códigos fornecidos realizam a validação de CPF e e-mail, garantindo que os dados inseridos pelos usuários estejam no formato correto antes de serem enviados ou processados. Estas validações são essenciais para garantir a integridade e a qualidade dos dados coletados.
-## Autores 
-Samuel Lima do Amaral
+
 ### Melhorias Possíveis
 
 - **Refatoração do Código de Validação de CPF:** Pode-se criar funções auxiliares para os cálculos dos dígitos verificadores, melhorando a legibilidade.
 - **Feedback ao Usuário:** Adicionar mensagens de erro mais detalhadas para guiar o usuário em caso de falhas na validação.
 - **Validação Adicional de E-mail:** Implementar uma validação mais robusta para endereços de e-mail utilizando expressões regulares.
+###Tecnologias usadas
+- HTML
+- CSS
+- JavaScript
+- 
+  # Autores 
+Samuel Lima do Amaral
