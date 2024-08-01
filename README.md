@@ -128,5 +128,5 @@ Os códigos fornecidos realizam a validação de CPF e e-mail, garantindo que os
 
 ## Contatos
 
- - [e-mail](@samuellimadoamaral.prof@gmail.com)
+ - [E-mail](@samuellimadoamaral.prof@gmail.com)
  - [Linkedin](https://www.linkedin.com/in/samuel-lima-do-amaral-713542297/)
